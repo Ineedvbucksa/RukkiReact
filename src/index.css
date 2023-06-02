@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    background-image:  url("./bgimgs/phones.svg"), url("./bgimgs/yellowVector.svg"), url("./bgimgs/redVector.svg");
+    background-repeat: no-repeat;
+    background-position: 1010px 165px, 995px -50px, 870px 640px;
+    background-size: auto, 1290px 1080px, 80%;
+    font-family: 'Roboto', sans-serif;
+}
